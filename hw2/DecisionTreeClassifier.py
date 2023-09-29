@@ -2,8 +2,7 @@
 Author: TING-HUNG LIN
 Git: https://github.com/nilpilihp/cs760.git
 
-Code referenced from implemenation of deepandas11
-
+This base structure of Node is adapted from deepandas11's implmentation on git
 """
 import numpy as np
 import pandas as pd
@@ -68,6 +67,7 @@ class DecisionTree():
             # Create a leaf node indicating it's prediction
             leaf = Node(None,None)
             leaf.leaf = True
+            #tie break with class 1
             if p >= n:
                 leaf.predict = 1
             else:
@@ -182,7 +182,9 @@ class DecisionTree():
             igr =  0
         else:
             igr = (self._info_entropy(df) - self._remainder(df, [sub1, sub2]))/ (-1 * np.dot(proba, np.log2(proba)))
-
+       
+        # for Q3 print out root candidates
+        # print(f'attr: {attribute}, c: {threshold}, igr:{igr:.5f}')
         return igr
     
 
@@ -235,9 +237,7 @@ class DecisionTree():
             elem = OrderedDict({
                 "Level": level,
                 "Predecessor": root.left_nums + root.right_nums,
-                # "Gain": root.ig,
-                "Headline": str(root.attr) + " >= " + str(root.thres) + ";  Gain = "+str(root.ig),
-                # [root.attr, root.thres],
+                "Node": str(root.attr) + " >= " + str(root.thres) + ";  Gain = "+str(root.igr),
                 "Split": [root.left_nums, root.right_nums],
             })
             self.repr_tree.append(elem)
@@ -256,16 +256,16 @@ class DecisionTree():
         print("Level ", level,"\n")
         while level <= max_level and i < len(tree):
             if tree[i]['Level'] > level:
-                if 'Headline' in tree[i]:
+                if 'Node' in tree[i]:
                     node_i += 1
-                print("\n","*"*30,"\n")
+                print("*"*30,"\n")
                 level += 1
                 print("Level ", level, "\n")
 
                 pprint(dict(tree[i]))
 
             else:
-                if 'Headline' in tree[i]:
+                if 'Node' in tree[i]:
                     node_i += 1
                 pprint(dict(tree[i]))
         
@@ -273,8 +273,7 @@ class DecisionTree():
 
         print("Total Nodes: ", node_i)
 
-
-
+    
     def __call__(self):
         self.final_tree = self._build_tree(df=self.df)
         self._create_view(self.final_tree, 0)
@@ -297,13 +296,29 @@ class DecisionTree():
         elif row_df[node.attr] < node.thres:
             return self._single_predict(node.right, row_df)
 
-    # Given a set of data, make a prediction for each instance using the Decision Tree
-    def _test_predictions(self):
+    def predict(self, test_data):
+        """
+        predict label, return yhat in np.array
 
+        :param test_data: DataFrame
+        """
+        yhat = np.zeros(len(test_data))
         root = self.final_tree
-        num_data = self.test_df.shape[0]
+        for i,row in test_data.iterrows():
+            prediction = self._single_predict(root, row)
+            yhat[i] = prediction
+        return yhat
+
+    def train_error(self, train_data):
+        """
+        training metric, return accuracy and error
+
+        :param train_data: DataFrame
+        """
+        root = self.final_tree
+        num_data = train_data.shape[0]
         num_correct = 0
-        for index,row in self.test_df.iterrows():
+        for i,row in train_data.iterrows():
             prediction = self._single_predict(root, row)
             if prediction == row['Outcome']:
                 num_correct += 1
@@ -312,8 +327,3 @@ class DecisionTree():
             "Error": 1 - round(num_correct/num_data, 2),
         }
         return metrics
-
-    def predict(self, test_data):
-        self.test_df  = test_data
-        metrics = self._test_predictions()
-        pprint(metrics)

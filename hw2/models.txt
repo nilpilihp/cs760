@@ -1,0 +1,1279 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \
+ ****************************** \
+\
+Level  0 \
+\
+\{'Level': 0,\
+ 'Node': 'x2 >= -0.366728;  Gain = 0.1500556298602282',\
+ 'Predecessor': 32,\
+ 'Split': [23, 9]\}\
+****************************** \
+\
+Level  1 \
+\
+\{'Level': 1,\
+ 'Node': 'x2 >= 1.123617;  Gain = 0.27344863044900025',\
+ 'Predecessor': 23,\
+ 'Split': [6, 17]\}\
+\{'Instances': 9, 'Label': 1, 'Level': 1\}\
+****************************** \
+\
+Level  2 \
+\
+\{'Instances': 6, 'Label': 1, 'Level': 2\}\
+\{'Level': 2,\
+ 'Node': 'x1 >= 1.152086;  Gain = 0.47579986290716547',\
+ 'Predecessor': 17,\
+ 'Split': [4, 13]\}\
+****************************** \
+\
+Level  3 \
+\
+\{'Instances': 4, 'Label': 1, 'Level': 3\}\
+\{'Level': 3,\
+ 'Node': 'x1 >= -0.803224;  Gain = 1.0',\
+ 'Predecessor': 13,\
+ 'Split': [11, 2]\}\
+****************************** \
+\
+Level  4 \
+\
+\{'Instances': 11, 'Label': 0, 'Level': 4\}\
+\{'Instances': 2, 'Label': 1, 'Level': 4\}\
+Total Nodes:  4\
+\
+ ****************************** \
+\
+Level  0 \
+\
+\{'Level': 0,\
+ 'Node': 'x2 >= -0.89981;  Gain = 0.12458891383303437',\
+ 'Predecessor': 128,\
+ 'Split': [100, 28]\}\
+****************************** \
+\
+Level  1 \
+\
+\{'Level': 1,\
+ 'Node': 'x1 >= 1.152086;  Gain = 0.1852758842655271',\
+ 'Predecessor': 100,\
+ 'Split': [11, 89]\}\
+\{'Instances': 28, 'Label': 1, 'Level': 1\}\
+****************************** \
+\
+Level  2 \
+\
+\{'Instances': 11, 'Label': 1, 'Level': 2\}\
+\{'Level': 2,\
+ 'Node': 'x2 >= 1.200518;  Gain = 0.27561550697887477',\
+ 'Predecessor': 89,\
+ 'Split': [11, 78]\}\
+****************************** \
+\
+Level  3 \
+\
+\{'Instances': 11, 'Label': 1, 'Level': 3\}\
+\{'Level': 3,\
+ 'Node': 'x1 >= -1.095619;  Gain = 0.38243613072853705',\
+ 'Predecessor': 78,\
+ 'Split': [65, 13]\}\
+****************************** \
+\
+Level  4 \
+\
+\{'Level': 4,\
+ 'Node': 'x2 >= -0.383536;  Gain = 0.3583177589866082',\
+ 'Predecessor': 65,\
+ 'Split': [55, 10]\}\
+\{'Instances': 13, 'Label': 1, 'Level': 4\}\
+****************************** \
+\
+Level  5 \
+\
+\{'Level': 5,\
+ 'Node': 'x2 >= 1.123617;  Gain = 0.5046842076410456',\
+ 'Predecessor': 55,\
+ 'Split': [4, 51]\}\
+\{'Level': 5,\
+ 'Node': 'x1 >= 0.199614;  Gain = 0.2971986090904165',\
+ 'Predecessor': 10,\
+ 'Split': [4, 6]\}\
+****************************** \
+\
+Level  6 \
+\
+\{'Level': 6,\
+ 'Node': 'x1 >= 0.948304;  Gain = 1.2737075253368564',\
+ 'Predecessor': 4,\
+ 'Split': [3, 1]\}\
+\{'Instances': 51, 'Label': 0, 'Level': 6\}\
+\{'Instances': 4, 'Label': 1, 'Level': 6\}\
+\{'Level': 6,\
+ 'Node': 'x1 >= -0.601329;  Gain = 0.30905672338561385',\
+ 'Predecessor': 6,\
+ 'Split': [4, 2]\}\
+****************************** \
+\
+Level  7 \
+\
+\{'Instances': 3, 'Label': 1, 'Level': 7\}\
+\{'Instances': 1, 'Label': 0, 'Level': 7\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -0.578232;  Gain = 0.219960352706176',\
+ 'Predecessor': 4,\
+ 'Split': [3, 1]\}\
+\{'Instances': 2, 'Label': 1, 'Level': 7\}\
+****************************** \
+\
+Level  8 \
+\
+\{'Level': 8,\
+ 'Node': 'x2 >= -0.810965;  Gain = 1.1574693157934097',\
+ 'Predecessor': 3,\
+ 'Split': [2, 1]\}\
+\{'Instances': 1, 'Label': 0, 'Level': 8\}\
+****************************** \
+\
+Level  9 \
+\
+\{'Instances': 2, 'Label': 1, 'Level': 9\}\
+\{'Instances': 1, 'Label': 0, 'Level': 9\}\
+Total Nodes:  11\
+\
+ ****************************** \
+\
+Level  0 \
+\
+\{'Level': 0,\
+ 'Node': 'x1 >= 1.136321;  Gain = 0.11858841090125867',\
+ 'Predecessor': 512,\
+ 'Split': [48, 464]\}\
+****************************** \
+\
+Level  1 \
+\
+\{'Instances': 48, 'Label': 1, 'Level': 1\}\
+\{'Level': 1,\
+ 'Node': 'x2 >= -0.89981;  Gain = 0.13526429528593029',\
+ 'Predecessor': 464,\
+ 'Split': [364, 100]\}\
+****************************** \
+\
+Level  2 \
+\
+\{'Level': 2,\
+ 'Node': 'x2 >= 1.246453;  Gain = 0.27103216620946774',\
+ 'Predecessor': 364,\
+ 'Split': [35, 329]\}\
+\{'Instances': 100, 'Label': 1, 'Level': 2\}\
+****************************** \
+\
+Level  3 \
+\
+\{'Instances': 35, 'Label': 1, 'Level': 3\}\
+\{'Level': 3,\
+ 'Node': 'x1 >= -1.095619;  Gain = 0.3008410202126744',\
+ 'Predecessor': 329,\
+ 'Split': [270, 59]\}\
+****************************** \
+\
+Level  4 \
+\
+\{'Level': 4,\
+ 'Node': 'x2 >= -0.4111;  Gain = 0.3326719666273509',\
+ 'Predecessor': 270,\
+ 'Split': [213, 57]\}\
+\{'Instances': 59, 'Label': 1, 'Level': 4\}\
+****************************** \
+\
+Level  5 \
+\
+\{'Level': 5,\
+ 'Node': 'x1 >= 0.927203;  Gain = 0.37489637557259897',\
+ 'Predecessor': 213,\
+ 'Split': [20, 193]\}\
+\{'Level': 5,\
+ 'Node': 'x2 >= -0.895236;  Gain = 0.14159222904251156',\
+ 'Predecessor': 57,\
+ 'Split': [56, 1]\}\
+****************************** \
+\
+Level  6 \
+\
+\{'Level': 6,\
+ 'Node': 'x2 >= 0.950202;  Gain = 0.28043299447518555',\
+ 'Predecessor': 20,\
+ 'Split': [5, 15]\}\
+\{'Level': 6,\
+ 'Node': 'x2 >= 1.065078;  Gain = 0.3191684146850901',\
+ 'Predecessor': 193,\
+ 'Split': [18, 175]\}\
+\{'Level': 6,\
+ 'Node': 'x1 >= 0.553617;  Gain = 0.12721281170159018',\
+ 'Predecessor': 56,\
+ 'Split': [17, 39]\}\
+\{'Instances': 1, 'Label': 0, 'Level': 6\}\
+****************************** \
+\
+Level  7 \
+\
+\{'Instances': 5, 'Label': 1, 'Level': 7\}\
+\{'Level': 7,\
+ 'Node': 'x2 >= 0.203168;  Gain = 1.0',\
+ 'Predecessor': 15,\
+ 'Split': [10, 5]\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -0.637368;  Gain = 0.4790793457439333',\
+ 'Predecessor': 18,\
+ 'Split': [14, 4]\}\
+\{'Level': 7,\
+ 'Node': 'x2 >= -0.230556;  Gain = 0.15348592718341786',\
+ 'Predecessor': 175,\
+ 'Split': [156, 19]\}\
+\{'Instances': 17, 'Label': 1, 'Level': 7\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -0.601329;  Gain = 0.22408786878739184',\
+ 'Predecessor': 39,\
+ 'Split': [24, 15]\}\
+****************************** \
+\
+Level  8 \
+\
+\{'Instances': 10, 'Label': 0, 'Level': 8\}\
+\{'Instances': 5, 'Label': 1, 'Level': 8\}\
+\{'Level': 8,\
+ 'Node': 'x2 >= 1.066743;  Gain = 0.5185576514665667',\
+ 'Predecessor': 14,\
+ 'Split': [13, 1]\}\
+\{'Instances': 4, 'Label': 1, 'Level': 8\}\
+\{'Instances': 156, 'Label': 0, 'Level': 8\}\
+\{'Level': 8,\
+ 'Node': 'x1 >= -0.675425;  Gain = 0.611989177521657',\
+ 'Predecessor': 19,\
+ 'Split': [17, 2]\}\
+\{'Level': 8,\
+ 'Node': 'x2 >= -0.654308;  Gain = 0.3997590391695234',\
+ 'Predecessor': 24,\
+ 'Split': [8, 16]\}\
+\{'Instances': 15, 'Label': 1, 'Level': 8\}\
+****************************** \
+\
+Level  9 \
+\
+\{'Level': 9,\
+ 'Node': 'x2 >= 1.196341;  Gain = 0.27935460542598595',\
+ 'Predecessor': 13,\
+ 'Split': [2, 11]\}\
+\{'Instances': 1, 'Label': 1, 'Level': 9\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= 0.784686;  Gain = 0.42711862273145224',\
+ 'Predecessor': 17,\
+ 'Split': [1, 16]\}\
+\{'Instances': 2, 'Label': 1, 'Level': 9\}\
+\{'Instances': 8, 'Label': 0, 'Level': 9\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= -0.331974;  Gain = 0.289135613402111',\
+ 'Predecessor': 16,\
+ 'Split': [10, 6]\}\
+****************************** \
+\
+Level  10 \
+\
+\{'Level': 10,\
+ 'Node': 'x1 >= 0.0076;  Gain = 1.0',\
+ 'Predecessor': 2,\
+ 'Split': [1, 1]\}\
+\{'Instances': 11, 'Label': 0, 'Level': 10\}\
+\{'Instances': 1, 'Label': 1, 'Level': 10\}\
+\{'Instances': 16, 'Label': 0, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= 0.199614;  Gain = 0.9976488852877519',\
+ 'Predecessor': 10,\
+ 'Split': [4, 6]\}\
+\{'Instances': 6, 'Label': 1, 'Level': 10\}\
+****************************** \
+\
+Level  11 \
+\
+\{'Instances': 1, 'Label': 1, 'Level': 11\}\
+\{'Instances': 1, 'Label': 0, 'Level': 11\}\
+\{'Instances': 4, 'Label': 1, 'Level': 11\}\
+\{'Instances': 6, 'Label': 0, 'Level': 11\}\
+Total Nodes:  22\
+\
+ ****************************** \
+\
+Level  0 \
+\
+\{'Level': 0,\
+ 'Node': 'x1 >= 1.136212;  Gain = 0.13636804346165465',\
+ 'Predecessor': 2048,\
+ 'Split': [227, 1821]\}\
+****************************** \
+\
+Level  1 \
+\
+\{'Instances': 227, 'Label': 1, 'Level': 1\}\
+\{'Level': 1,\
+ 'Node': 'x2 >= 1.233068;  Gain = 0.17530439227860364',\
+ 'Predecessor': 1821,\
+ 'Split': [179, 1642]\}\
+****************************** \
+\
+Level  2 \
+\
+\{'Instances': 179, 'Label': 1, 'Level': 2\}\
+\{'Level': 2,\
+ 'Node': 'x2 >= -0.4111;  Gain = 0.24375198746089904',\
+ 'Predecessor': 1642,\
+ 'Split': [999, 643]\}\
+****************************** \
+\
+Level  3 \
+\
+\{'Level': 3,\
+ 'Node': 'x1 >= -1.128462;  Gain = 0.468086038973156',\
+ 'Predecessor': 999,\
+ 'Split': [851, 148]\}\
+\{'Level': 3,\
+ 'Node': 'x2 >= -0.925942;  Gain = 0.048626205791723325',\
+ 'Predecessor': 643,\
+ 'Split': [300, 343]\}\
+****************************** \
+\
+Level  4 \
+\
+\{'Level': 4,\
+ 'Node': 'x1 >= 1.028892;  Gain = 0.3944409693499675',\
+ 'Predecessor': 851,\
+ 'Split': [50, 801]\}\
+\{'Instances': 148, 'Label': 1, 'Level': 4\}\
+\{'Level': 4,\
+ 'Node': 'x2 >= -0.924512;  Gain = 0.12360850306672244',\
+ 'Predecessor': 300,\
+ 'Split': [299, 1]\}\
+\{'Instances': 343, 'Label': 1, 'Level': 4\}\
+****************************** \
+\
+Level  5 \
+\
+\{'Level': 5,\
+ 'Node': 'x2 >= 0.165721;  Gain = 0.2348694319901869',\
+ 'Predecessor': 50,\
+ 'Split': [33, 17]\}\
+\{'Level': 5,\
+ 'Node': 'x2 >= 1.083513;  Gain = 0.31436153389487576',\
+ 'Predecessor': 801,\
+ 'Split': [77, 724]\}\
+\{'Level': 5,\
+ 'Node': 'x1 >= 0.618629;  Gain = 0.06799867097729796',\
+ 'Predecessor': 299,\
+ 'Split': [61, 238]\}\
+\{'Instances': 1, 'Label': 0, 'Level': 5\}\
+****************************** \
+\
+Level  6 \
+\
+\{'Level': 6,\
+ 'Node': 'x2 >= 0.845589;  Gain = 1.1426617484947603',\
+ 'Predecessor': 33,\
+ 'Split': [12, 21]\}\
+\{'Instances': 17, 'Label': 1, 'Level': 6\}\
+\{'Level': 6,\
+ 'Node': 'x1 >= 0.916131;  Gain = 0.2525062633387011',\
+ 'Predecessor': 77,\
+ 'Split': [9, 68]\}\
+\{'Level': 6,\
+ 'Node': 'x1 >= -1.102858;  Gain = 0.29631019165319',\
+ 'Predecessor': 724,\
+ 'Split': [716, 8]\}\
+\{'Instances': 61, 'Label': 1, 'Level': 6\}\
+\{'Level': 6,\
+ 'Node': 'x1 >= -0.648421;  Gain = 0.15518411203300753',\
+ 'Predecessor': 238,\
+ 'Split': [141, 97]\}\
+****************************** \
+\
+Level  7 \
+\
+\{'Instances': 12, 'Label': 1, 'Level': 7\}\
+\{'Instances': 21, 'Label': 0, 'Level': 7\}\
+\{'Instances': 9, 'Label': 1, 'Level': 7\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -0.828143;  Gain = 0.31341047416516754',\
+ 'Predecessor': 68,\
+ 'Split': [59, 9]\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -0.979471;  Gain = 0.13920427906741828',\
+ 'Predecessor': 716,\
+ 'Split': [676, 40]\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -1.124295;  Gain = 1.6302435505293673',\
+ 'Predecessor': 8,\
+ 'Split': [7, 1]\}\
+\{'Level': 7,\
+ 'Node': 'x2 >= -0.510833;  Gain = 0.43745164511964624',\
+ 'Predecessor': 141,\
+ 'Split': [24, 117]\}\
+\{'Instances': 97, 'Label': 1, 'Level': 7\}\
+****************************** \
+\
+Level  8 \
+\
+\{'Level': 8,\
+ 'Node': 'x1 >= 0.271989;  Gain = 0.16073092264502398',\
+ 'Predecessor': 59,\
+ 'Split': [25, 34]\}\
+\{'Instances': 9, 'Label': 1, 'Level': 8\}\
+\{'Level': 8,\
+ 'Node': 'x1 >= 0.784686;  Gain = 0.16412426580144887',\
+ 'Predecessor': 676,\
+ 'Split': [78, 598]\}\
+\{'Level': 8,\
+ 'Node': 'x2 >= 0.080169;  Gain = 0.662919227764702',\
+ 'Predecessor': 40,\
+ 'Split': [29, 11]\}\
+\{'Instances': 7, 'Label': 1, 'Level': 8\}\
+\{'Instances': 1, 'Label': 0, 'Level': 8\}\
+\{'Instances': 24, 'Label': 0, 'Level': 8\}\
+\{'Level': 8,\
+ 'Node': 'x2 >= -0.617593;  Gain = 0.2470565825566272',\
+ 'Predecessor': 117,\
+ 'Split': [25, 92]\}\
+****************************** \
+\
+Level  9 \
+\
+\{'Level': 9,\
+ 'Node': 'x2 >= 1.21493;  Gain = 0.22679114276486537',\
+ 'Predecessor': 25,\
+ 'Split': [3, 22]\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= -0.180314;  Gain = 0.19747947235012508',\
+ 'Predecessor': 34,\
+ 'Split': [11, 23]\}\
+\{'Level': 9,\
+ 'Node': 'x2 >= -0.19636;  Gain = 0.848569911066166',\
+ 'Predecessor': 78,\
+ 'Split': [67, 11]\}\
+\{'Level': 9,\
+ 'Node': 'x2 >= 1.058235;  Gain = 0.17848929256978593',\
+ 'Predecessor': 598,\
+ 'Split': [15, 583]\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= -0.981345;  Gain = 0.18743143251580568',\
+ 'Predecessor': 29,\
+ 'Split': [1, 28]\}\
+\{'Instances': 11, 'Label': 1, 'Level': 9\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= -0.522247;  Gain = 1.0',\
+ 'Predecessor': 25,\
+ 'Split': [22, 3]\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= 0.355629;  Gain = 0.11887156853537763',\
+ 'Predecessor': 92,\
+ 'Split': [19, 73]\}\
+****************************** \
+\
+Level  10 \
+\
+\{'Level': 10,\
+ 'Node': 'x2 >= 1.219689;  Gain = 1.0',\
+ 'Predecessor': 3,\
+ 'Split': [2, 1]\}\
+\{'Instances': 22, 'Label': 0, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= 0.112165;  Gain = 0.6106492942544121',\
+ 'Predecessor': 11,\
+ 'Split': [4, 7]\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= -0.755467;  Gain = 0.470400176331257',\
+ 'Predecessor': 23,\
+ 'Split': [18, 5]\}\
+\{'Level': 10,\
+ 'Node': 'x2 >= -0.191773;  Gain = 0.42332575263162336',\
+ 'Predecessor': 67,\
+ 'Split': [65, 2]\}\
+\{'Instances': 11, 'Label': 1, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= 0.181604;  Gain = 0.28662179383898045',\
+ 'Predecessor': 15,\
+ 'Split': [6, 9]\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= -0.819886;  Gain = 0.07625717762841483',\
+ 'Predecessor': 583,\
+ 'Split': [531, 52]\}\
+\{'Instances': 1, 'Label': 1, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x2 >= 0.116556;  Gain = 0.3987883838057833',\
+ 'Predecessor': 28,\
+ 'Split': [26, 2]\}\
+\{'Instances': 22, 'Label': 0, 'Level': 10\}\
+\{'Instances': 3, 'Label': 1, 'Level': 10\}\
+\{'Instances': 19, 'Label': 1, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= -0.418624;  Gain = 0.2184697966705236',\
+ 'Predecessor': 73,\
+ 'Split': [49, 24]\}\
+****************************** \
+\
+Level  11 \
+\
+\{'Instances': 2, 'Label': 0, 'Level': 11\}\
+\{'Instances': 1, 'Label': 1, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= 0.231871;  Gain = 0.7851095954980174',\
+ 'Predecessor': 4,\
+ 'Split': [1, 3]\}\
+\{'Instances': 7, 'Label': 1, 'Level': 11\}\
+\{'Instances': 18, 'Label': 0, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x2 >= 1.180908;  Gain = 1.0657498532322662',\
+ 'Predecessor': 5,\
+ 'Split': [3, 2]\}\
+\{'Instances': 65, 'Label': 0, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= 0.912541;  Gain = 1.0',\
+ 'Predecessor': 2,\
+ 'Split': [1, 1]\}\
+\{'Instances': 6, 'Label': 0, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= -0.028034;  Gain = 0.5026073402856805',\
+ 'Predecessor': 9,\
+ 'Split': [3, 6]\}\
+\{'Instances': 531, 'Label': 0, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x2 >= -0.201815;  Gain = 1.0',\
+ 'Predecessor': 52,\
+ 'Split': [48, 4]\}\
+\{'Instances': 26, 'Label': 0, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= -1.012672;  Gain = 1.0',\
+ 'Predecessor': 2,\
+ 'Split': [1, 1]\}\
+\{'Level': 11,\
+ 'Node': 'x2 >= -0.730767;  Gain = 0.49356343213722076',\
+ 'Predecessor': 49,\
+ 'Split': [19, 30]\}\
+\{'Instances': 24, 'Label': 1, 'Level': 11\}\
+****************************** \
+\
+Level  12 \
+\
+\{'Instances': 1, 'Label': 1, 'Level': 12\}\
+\{'Instances': 3, 'Label': 0, 'Level': 12\}\
+\{'Instances': 3, 'Label': 1, 'Level': 12\}\
+\{'Instances': 2, 'Label': 0, 'Level': 12\}\
+\{'Instances': 1, 'Label': 1, 'Level': 12\}\
+\{'Instances': 1, 'Label': 0, 'Level': 12\}\
+\{'Instances': 3, 'Label': 1, 'Level': 12\}\
+\{'Level': 12,\
+ 'Node': 'x1 >= -0.648498;  Gain = 1.0',\
+ 'Predecessor': 6,\
+ 'Split': [5, 1]\}\
+\{'Instances': 48, 'Label': 0, 'Level': 12\}\
+\{'Instances': 4, 'Label': 1, 'Level': 12\}\
+\{'Instances': 1, 'Label': 0, 'Level': 12\}\
+\{'Instances': 1, 'Label': 1, 'Level': 12\}\
+\{'Instances': 19, 'Label': 0, 'Level': 12\}\
+\{'Level': 12,\
+ 'Node': 'x1 >= -0.208334;  Gain = 0.20005493041626804',\
+ 'Predecessor': 30,\
+ 'Split': [21, 9]\}\
+****************************** \
+\
+Level  13 \
+\
+\{'Instances': 5, 'Label': 0, 'Level': 13\}\
+\{'Instances': 1, 'Label': 1, 'Level': 13\}\
+\{'Level': 13,\
+ 'Node': 'x1 >= 0.217031;  Gain = 0.26669609225177665',\
+ 'Predecessor': 21,\
+ 'Split': [4, 17]\}\
+\{'Instances': 9, 'Label': 1, 'Level': 13\}\
+****************************** \
+\
+Level  14 \
+\
+\{'Instances': 4, 'Label': 1, 'Level': 14\}\
+\{'Level': 14,\
+ 'Node': 'x2 >= -0.90201;  Gain = 0.32831184727099233',\
+ 'Predecessor': 17,\
+ 'Split': [15, 2]\}\
+****************************** \
+\
+Level  15 \
+\
+\{'Level': 15,\
+ 'Node': 'x2 >= -0.823998;  Gain = 0.14746045617559578',\
+ 'Predecessor': 15,\
+ 'Split': [4, 11]\}\
+\{'Instances': 2, 'Label': 1, 'Level': 15\}\
+****************************** \
+\
+Level  16 \
+\
+\{'Instances': 4, 'Label': 0, 'Level': 16\}\
+\{'Level': 16,\
+ 'Node': 'x1 >= 0.183454;  Gain = 0.43156012324196114',\
+ 'Predecessor': 11,\
+ 'Split': [2, 9]\}\
+****************************** \
+\
+Level  17 \
+\
+\{'Instances': 2, 'Label': 1, 'Level': 17\}\
+\{'Level': 17,\
+ 'Node': 'x1 >= -0.113008;  Gain = 1.0',\
+ 'Predecessor': 9,\
+ 'Split': [8, 1]\}\
+****************************** \
+\
+Level  18 \
+\
+\{'Instances': 8, 'Label': 0, 'Level': 18\}\
+\{'Instances': 1, 'Label': 1, 'Level': 18\}\
+Total Nodes:  51\
+\
+ ****************************** \
+\
+Level  0 \
+\
+\{'Level': 0,\
+ 'Node': 'x1 >= 1.136212;  Gain = 0.14049682561024826',\
+ 'Predecessor': 8192,\
+ 'Split': [992, 7200]\}\
+****************************** \
+\
+Level  1 \
+\
+\{'Instances': 992, 'Label': 1, 'Level': 1\}\
+\{'Level': 1,\
+ 'Node': 'x2 >= 1.232565;  Gain = 0.18231747929447878',\
+ 'Predecessor': 7200,\
+ 'Split': [674, 6526]\}\
+****************************** \
+\
+Level  2 \
+\
+\{'Instances': 674, 'Label': 1, 'Level': 2\}\
+\{'Level': 2,\
+ 'Node': 'x2 >= -0.471014;  Gain = 0.23992237035954145',\
+ 'Predecessor': 6526,\
+ 'Split': [4040, 2486]\}\
+****************************** \
+\
+Level  3 \
+\
+\{'Level': 3,\
+ 'Node': 'x1 >= -1.048881;  Gain = 0.4233474595897667',\
+ 'Predecessor': 4040,\
+ 'Split': [3351, 689]\}\
+\{'Level': 3,\
+ 'Node': 'x2 >= -0.512367;  Gain = 0.05544972960013725',\
+ 'Predecessor': 2486,\
+ 'Split': [90, 2396]\}\
+****************************** \
+\
+Level  4 \
+\
+\{'Level': 4,\
+ 'Node': 'x1 >= 1.028892;  Gain = 0.6083510227630236',\
+ 'Predecessor': 3351,\
+ 'Split': [148, 3203]\}\
+\{'Level': 4,\
+ 'Node': 'x1 >= -1.138432;  Gain = 0.16957902076274398',\
+ 'Predecessor': 689,\
+ 'Split': [124, 565]\}\
+\{'Level': 4,\
+ 'Node': 'x1 >= -0.621307;  Gain = 0.29411409613294837',\
+ 'Predecessor': 90,\
+ 'Split': [61, 29]\}\
+\{'Level': 4,\
+ 'Node': 'x2 >= -0.604822;  Gain = 0.03780732434336226',\
+ 'Predecessor': 2396,\
+ 'Split': [197, 2199]\}\
+****************************** \
+\
+Level  5 \
+\
+\{'Level': 5,\
+ 'Node': 'x2 >= 0.143666;  Gain = 0.1671122054818316',\
+ 'Predecessor': 148,\
+ 'Split': [87, 61]\}\
+\{'Level': 5,\
+ 'Node': 'x2 >= 1.169179;  Gain = 0.45732943098935674',\
+ 'Predecessor': 3203,\
+ 'Split': [119, 3084]\}\
+\{'Level': 5,\
+ 'Node': 'x2 >= 0.865374;  Gain = 0.13453907360079248',\
+ 'Predecessor': 124,\
+ 'Split': [31, 93]\}\
+\{'Instances': 565, 'Label': 1, 'Level': 5\}\
+\{'Level': 5,\
+ 'Node': 'x1 >= 0.642677;  Gain = 1.3152007049998131',\
+ 'Predecessor': 61,\
+ 'Split': [17, 44]\}\
+\{'Instances': 29, 'Label': 1, 'Level': 5\}\
+\{'Level': 5,\
+ 'Node': 'x1 >= -0.539705;  Gain = 0.21206056649673502',\
+ 'Predecessor': 197,\
+ 'Split': [126, 71]\}\
+\{'Level': 5,\
+ 'Node': 'x2 >= -0.954911;  Gain = 0.028972591465175276',\
+ 'Predecessor': 2199,\
+ 'Split': [869, 1330]\}\
+****************************** \
+\
+Level  6 \
+\
+\{'Level': 6,\
+ 'Node': 'x2 >= 0.845589;  Gain = 0.58953089203884',\
+ 'Predecessor': 87,\
+ 'Split': [30, 57]\}\
+\{'Instances': 61, 'Label': 1, 'Level': 6\}\
+\{'Level': 6,\
+ 'Node': 'x1 >= 0.758248;  Gain = 0.15145288032951867',\
+ 'Predecessor': 119,\
+ 'Split': [15, 104]\}\
+\{'Level': 6,\
+ 'Node': 'x1 >= 0.986624;  Gain = 0.2841535887272338',\
+ 'Predecessor': 3084,\
+ 'Split': [72, 3012]\}\
+\{'Instances': 31, 'Label': 1, 'Level': 6\}\
+\{'Level': 6,\
+ 'Node': 'x2 >= 0.196268;  Gain = 0.4138062217956403',\
+ 'Predecessor': 93,\
+ 'Split': [53, 40]\}\
+\{'Instances': 17, 'Label': 1, 'Level': 6\}\
+\{'Instances': 44, 'Label': 0, 'Level': 6\}\
+\{'Level': 6,\
+ 'Node': 'x1 >= 0.583187;  Gain = 1.065409974597267',\
+ 'Predecessor': 126,\
+ 'Split': [44, 82]\}\
+\{'Instances': 71, 'Label': 1, 'Level': 6\}\
+\{'Level': 6,\
+ 'Node': 'x2 >= -0.953832;  Gain = 0.11461374352223919',\
+ 'Predecessor': 869,\
+ 'Split': [868, 1]\}\
+\{'Instances': 1330, 'Label': 1, 'Level': 6\}\
+****************************** \
+\
+Level  7 \
+\
+\{'Instances': 30, 'Label': 1, 'Level': 7\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= 1.105383;  Gain = 0.26822195939117843',\
+ 'Predecessor': 57,\
+ 'Split': [21, 36]\}\
+\{'Instances': 15, 'Label': 1, 'Level': 7\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= 0.307208;  Gain = 0.27410317297555914',\
+ 'Predecessor': 104,\
+ 'Split': [25, 79]\}\
+\{'Level': 7,\
+ 'Node': 'x2 >= -0.00238;  Gain = 0.4543218536151338',\
+ 'Predecessor': 72,\
+ 'Split': [48, 24]\}\
+\{'Level': 7,\
+ 'Node': 'x2 >= 1.094522;  Gain = 0.20406262848825307',\
+ 'Predecessor': 3012,\
+ 'Split': [150, 2862]\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -1.099439;  Gain = 0.46922864438977785',\
+ 'Predecessor': 53,\
+ 'Split': [32, 21]\}\
+\{'Instances': 40, 'Label': 1, 'Level': 7\}\
+\{'Instances': 44, 'Label': 1, 'Level': 7\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -0.522247;  Gain = 0.24471967871688904',\
+ 'Predecessor': 82,\
+ 'Split': [80, 2]\}\
+\{'Level': 7,\
+ 'Node': 'x1 >= -0.422524;  Gain = 0.050866343765105126',\
+ 'Predecessor': 868,\
+ 'Split': [523, 345]\}\
+\{'Instances': 1, 'Label': 0, 'Level': 7\}\
+****************************** \
+\
+Level  8 \
+\
+\{'Level': 8,\
+ 'Node': 'x2 >= 0.344536;  Gain = 0.32380899153560855',\
+ 'Predecessor': 21,\
+ 'Split': [17, 4]\}\
+\{'Level': 8,\
+ 'Node': 'x2 >= 0.153104;  Gain = 0.40728150668699686',\
+ 'Predecessor': 36,\
+ 'Split': [34, 2]\}\
+\{'Level': 8,\
+ 'Node': 'x1 >= 0.661497;  Gain = 0.3593502843741698',\
+ 'Predecessor': 25,\
+ 'Split': [5, 20]\}\
+\{'Level': 8,\
+ 'Node': 'x1 >= -0.751347;  Gain = 0.09496926987075628',\
+ 'Predecessor': 79,\
+ 'Split': [66, 13]\}\
+\{'Level': 8,\
+ 'Node': 'x2 >= 1.006018;  Gain = 1.2527750493043035',\
+ 'Predecessor': 48,\
+ 'Split': [8, 40]\}\
+\{'Instances': 24, 'Label': 1, 'Level': 8\}\
+\{'Level': 8,\
+ 'Node': 'x1 >= 0.887935;  Gain = 0.377599394838685',\
+ 'Predecessor': 150,\
+ 'Split': [13, 137]\}\
+\{'Level': 8,\
+ 'Node': 'x2 >= -0.190669;  Gain = 0.15315090670023446',\
+ 'Predecessor': 2862,\
+ 'Split': [2339, 523]\}\
+\{'Instances': 32, 'Label': 0, 'Level': 8\}\
+\{'Level': 8,\
+ 'Node': 'x2 >= 0.796378;  Gain = 0.2420842695007146',\
+ 'Predecessor': 21,\
+ 'Split': [5, 16]\}\
+\{'Level': 8,\
+ 'Node': 'x1 >= 0.510609;  Gain = 0.15549769857232165',\
+ 'Predecessor': 80,\
+ 'Split': [5, 75]\}\
+\{'Level': 8,\
+ 'Node': 'x1 >= -0.530609;  Gain = 1.0',\
+ 'Predecessor': 2,\
+ 'Split': [1, 1]\}\
+\{'Level': 8,\
+ 'Node': 'x1 >= 0.447361;  Gain = 0.214592529176583',\
+ 'Predecessor': 523,\
+ 'Split': [234, 289]\}\
+\{'Instances': 345, 'Label': 1, 'Level': 8\}\
+****************************** \
+\
+Level  9 \
+\
+\{'Level': 9,\
+ 'Node': 'x2 >= 0.792619;  Gain = 0.5663555647679666',\
+ 'Predecessor': 17,\
+ 'Split': [3, 14]\}\
+\{'Instances': 4, 'Label': 1, 'Level': 9\}\
+\{'Instances': 34, 'Label': 0, 'Level': 9\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= 1.072881;  Gain = 1.0',\
+ 'Predecessor': 2,\
+ 'Split': [1, 1]\}\
+\{'Level': 9,\
+ 'Node': 'x2 >= 1.21493;  Gain = 0.9383064862426616',\
+ 'Predecessor': 5,\
+ 'Split': [2, 3]\}\
+\{'Instances': 20, 'Label': 0, 'Level': 9\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= -0.335169;  Gain = 0.3448183570767949',\
+ 'Predecessor': 66,\
+ 'Split': [37, 29]\}\
+\{'Instances': 13, 'Label': 1, 'Level': 9\}\
+\{'Instances': 8, 'Label': 1, 'Level': 9\}\
+\{'Instances': 40, 'Label': 0, 'Level': 9\}\
+\{'Instances': 13, 'Label': 1, 'Level': 9\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= -0.863418;  Gain = 0.4283112717744044',\
+ 'Predecessor': 137,\
+ 'Split': [122, 15]\}\
+\{'Level': 9,\
+ 'Node': 'x2 >= 1.05461;  Gain = 0.21924767261622738',\
+ 'Predecessor': 2339,\
+ 'Split': [92, 2247]\}\
+\{'Level': 9,\
+ 'Node': 'x1 >= 0.882933;  Gain = 0.47646527873196387',\
+ 'Predecessor': 523,\
+ 'Split': [27, 496]\}\
+\{'Instances': 5, 'Label': 1, 'Level': 9\}\
+\{'Level': 9,\
+ 'Node': 'x2 >= 0.399687;  Gain = 0.6328258939634306',\
+ 'Predecessor': 16,\
+ 'Split': [11, 5]\}\
+\{'Level': 9,\
+ 'Node': 'x2 >= -0.561203;  Gain = 1.0',\
+ 'Predecessor': 5,\
+ 'Split': [4, 1]\}\
+\{'Instances': 75, 'Label': 0, 'Level': 9\}\
+\{'Instances': 1, 'Label': 1, 'Level': 9\}\
+\{'Instances': 1, 'Label': 0, 'Level': 9\}\
+\{'Instances': 234, 'Label': 1, 'Level': 9\}\
+\{'Level': 9,\
+ 'Node': 'x2 >= -0.70481;  Gain = 0.544560949551496',\
+ 'Predecessor': 289,\
+ 'Split': [89, 200]\}\
+****************************** \
+\
+Level  10 \
+\
+\{'Instances': 3, 'Label': 1, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= 1.13571;  Gain = 0.27717897644715944',\
+ 'Predecessor': 14,\
+ 'Split': [2, 12]\}\
+\{'Instances': 1, 'Label': 1, 'Level': 10\}\
+\{'Instances': 1, 'Label': 0, 'Level': 10\}\
+\{'Instances': 2, 'Label': 1, 'Level': 10\}\
+\{'Instances': 3, 'Label': 0, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x2 >= 1.199003;  Gain = 0.26459348545145495',\
+ 'Predecessor': 37,\
+ 'Split': [21, 16]\}\
+\{'Level': 10,\
+ 'Node': 'x2 >= 1.222977;  Gain = 0.36362828833632466',\
+ 'Predecessor': 29,\
+ 'Split': [5, 24]\}\
+\{'Level': 10,\
+ 'Node': 'x2 >= 1.09485;  Gain = 0.26071069500681493',\
+ 'Predecessor': 122,\
+ 'Split': [121, 1]\}\
+\{'Instances': 15, 'Label': 1, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= -0.877873;  Gain = 0.4106863115752391',\
+ 'Predecessor': 92,\
+ 'Split': [87, 5]\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= -1.014802;  Gain = 0.16139596407204773',\
+ 'Predecessor': 2247,\
+ 'Split': [2214, 33]\}\
+\{'Instances': 27, 'Label': 1, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= -0.774401;  Gain = 0.5104962190756415',\
+ 'Predecessor': 496,\
+ 'Split': [416, 80]\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= -1.135581;  Gain = 0.34833879290359004',\
+ 'Predecessor': 11,\
+ 'Split': [9, 2]\}\
+\{'Instances': 5, 'Label': 1, 'Level': 10\}\
+\{'Instances': 4, 'Label': 0, 'Level': 10\}\
+\{'Instances': 1, 'Label': 1, 'Level': 10\}\
+\{'Instances': 89, 'Label': 0, 'Level': 10\}\
+\{'Level': 10,\
+ 'Node': 'x1 >= 0.350018;  Gain = 0.15749809582705948',\
+ 'Predecessor': 200,\
+ 'Split': [30, 170]\}\
+****************************** \
+\
+Level  11 \
+\
+\{'Level': 11,\
+ 'Node': 'x1 >= 1.135738;  Gain = 1.0',\
+ 'Predecessor': 2,\
+ 'Split': [1, 1]\}\
+\{'Instances': 12, 'Label': 0, 'Level': 11\}\
+\{'Instances': 21, 'Label': 1, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= -0.257996;  Gain = 0.16637791120747675',\
+ 'Predecessor': 16,\
+ 'Split': [13, 3]\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= -0.580807;  Gain = 1.0',\
+ 'Predecessor': 5,\
+ 'Split': [3, 2]\}\
+\{'Instances': 24, 'Label': 0, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= 0.18206;  Gain = 0.1963111138742518',\
+ 'Predecessor': 121,\
+ 'Split': [53, 68]\}\
+\{'Instances': 1, 'Label': 1, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x2 >= 1.055297;  Gain = 0.3197475402646623',\
+ 'Predecessor': 87,\
+ 'Split': [86, 1]\}\
+\{'Instances': 5, 'Label': 1, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= -0.983287;  Gain = 0.07546334365078508',\
+ 'Predecessor': 2214,\
+ 'Split': [2190, 24]\}\
+\{'Level': 11,\
+ 'Node': 'x2 >= 0.071188;  Gain = 0.6093613972094474',\
+ 'Predecessor': 33,\
+ 'Split': [27, 6]\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= 0.747956;  Gain = 0.7470444670620642',\
+ 'Predecessor': 416,\
+ 'Split': [30, 386]\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= -0.861929;  Gain = 0.2505425488590127',\
+ 'Predecessor': 80,\
+ 'Split': [28, 52]\}\
+\{'Instances': 9, 'Label': 0, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x1 >= -1.138029;  Gain = 1.0',\
+ 'Predecessor': 2,\
+ 'Split': [1, 1]\}\
+\{'Instances': 30, 'Label': 1, 'Level': 11\}\
+\{'Level': 11,\
+ 'Node': 'x2 >= -0.743999;  Gain = 0.18462606508860585',\
+ 'Predecessor': 170,\
+ 'Split': [25, 145]\}\
+****************************** \
+\
+Level  12 \
+\
+\{'Instances': 1, 'Label': 0, 'Level': 12\}\
+\{'Instances': 1, 'Label': 1, 'Level': 12\}\
+\{'Level': 12,\
+ 'Node': 'x1 >= 0.27073;  Gain = 1.0',\
+ 'Predecessor': 13,\
+ 'Split': [2, 11]\}\
+\{'Instances': 3, 'Label': 0, 'Level': 12\}\
+\{'Instances': 3, 'Label': 0, 'Level': 12\}\
+\{'Instances': 2, 'Label': 1, 'Level': 12\}\
+\{'Instances': 53, 'Label': 0, 'Level': 12\}\
+\{'Level': 12,\
+ 'Node': 'x1 >= -0.07934;  Gain = 0.7065391635411955',\
+ 'Predecessor': 68,\
+ 'Split': [9, 59]\}\
+\{'Level': 12,\
+ 'Node': 'x1 >= 0.078937;  Gain = 0.18511518930304127',\
+ 'Predecessor': 86,\
+ 'Split': [45, 41]\}\
+\{'Instances': 1, 'Label': 1, 'Level': 12\}\
+\{'Level': 12,\
+ 'Node': 'x2 >= -0.134503;  Gain = 0.0389391705913728',\
+ 'Predecessor': 2190,\
+ 'Split': [2107, 83]\}\
+\{'Level': 12,\
+ 'Node': 'x2 >= 0.022087;  Gain = 1.0',\
+ 'Predecessor': 24,\
+ 'Split': [21, 3]\}\
+\{'Level': 12,\
+ 'Node': 'x2 >= 0.980766;  Gain = 0.5907861090472863',\
+ 'Predecessor': 27,\
+ 'Split': [2, 25]\}\
+\{'Instances': 6, 'Label': 1, 'Level': 12\}\
+\{'Level': 12,\
+ 'Node': 'x2 >= -0.237789;  Gain = 0.425175080775219',\
+ 'Predecessor': 30,\
+ 'Split': [9, 21]\}\
+\{'Level': 12,\
+ 'Node': 'x1 >= -0.690808;  Gain = 0.21075971565157223',\
+ 'Predecessor': 386,\
+ 'Split': [367, 19]\}\
+\{'Level': 12,\
+ 'Node': 'x2 >= -0.294525;  Gain = 0.56870649510151',\
+ 'Predecessor': 28,\
+ 'Split': [11, 17]\}\
+\{'Instances': 52, 'Label': 1, 'Level': 12\}\
+\{'Instances': 1, 'Label': 1, 'Level': 12\}\
+\{'Instances': 1, 'Label': 0, 'Level': 12\}\
+\{'Level': 12,\
+ 'Node': 'x1 >= -0.331974;  Gain = 1.0',\
+ 'Predecessor': 25,\
+ 'Split': [22, 3]\}\
+\{'Level': 12,\
+ 'Node': 'x1 >= -0.208334;  Gain = 0.17219310562965923',\
+ 'Predecessor': 145,\
+ 'Split': [106, 39]\}\
+****************************** \
+\
+Level  13 \
+\
+\{'Instances': 2, 'Label': 0, 'Level': 13\}\
+\{'Instances': 11, 'Label': 1, 'Level': 13\}\
+\{'Instances': 9, 'Label': 1, 'Level': 13\}\
+\{'Level': 13,\
+ 'Node': 'x1 >= -0.143302;  Gain = 0.2610440621479131',\
+ 'Predecessor': 59,\
+ 'Split': [4, 55]\}\
+\{'Instances': 45, 'Label': 0, 'Level': 13\}\
+\{'Level': 13,\
+ 'Node': 'x1 >= -0.044622;  Gain = 1.2402639145162688',\
+ 'Predecessor': 41,\
+ 'Split': [8, 33]\}\
+\{'Level': 13,\
+ 'Node': 'x2 >= 1.033802;  Gain = 0.0444695447928188',\
+ 'Predecessor': 2107,\
+ 'Split': [35, 2072]\}\
+\{'Level': 13,\
+ 'Node': 'x1 >= -0.857019;  Gain = 0.7787522991084151',\
+ 'Predecessor': 83,\
+ 'Split': [80, 3]\}\
+\{'Instances': 21, 'Label': 0, 'Level': 13\}\
+\{'Instances': 3, 'Label': 1, 'Level': 13\}\
+\{'Instances': 2, 'Label': 1, 'Level': 13\}\
+\{'Instances': 25, 'Label': 0, 'Level': 13\}\
+\{'Instances': 9, 'Label': 0, 'Level': 13\}\
+\{'Level': 13,\
+ 'Node': 'x2 >= -0.329406;  Gain = 0.311240010228834',\
+ 'Predecessor': 21,\
+ 'Split': [10, 11]\}\
+\{'Level': 13,\
+ 'Node': 'x2 >= -0.468124;  Gain = 0.18918906062082358',\
+ 'Predecessor': 367,\
+ 'Split': [362, 5]\}\
+\{'Level': 13,\
+ 'Node': 'x2 >= -0.399112;  Gain = 1.0',\
+ 'Predecessor': 19,\
+ 'Split': [14, 5]\}\
+\{'Level': 13,\
+ 'Node': 'x1 >= -0.820823;  Gain = 0.3332171543873485',\
+ 'Predecessor': 11,\
+ 'Split': [7, 4]\}\
+\{'Instances': 17, 'Label': 1, 'Level': 13\}\
+\{'Instances': 22, 'Label': 0, 'Level': 13\}\
+\{'Instances': 3, 'Label': 1, 'Level': 13\}\
+\{'Level': 13,\
+ 'Node': 'x2 >= -0.80138;  Gain = 0.23672877585088611',\
+ 'Predecessor': 106,\
+ 'Split': [20, 86]\}\
+\{'Instances': 39, 'Label': 1, 'Level': 13\}\
+****************************** \
+\
+Level  14 \
+\
+\{'Level': 14,\
+ 'Node': 'x2 >= 1.126522;  Gain = 1.2737075253368564',\
+ 'Predecessor': 4,\
+ 'Split': [3, 1]\}\
+\{'Level': 14,\
+ 'Node': 'x1 >= -0.794022;  Gain = 0.43226037954545415',\
+ 'Predecessor': 55,\
+ 'Split': [51, 4]\}\
+\{'Instances': 8, 'Label': 1, 'Level': 14\}\
+\{'Instances': 33, 'Label': 0, 'Level': 14\}\
+\{'Level': 14,\
+ 'Node': 'x2 >= 1.041706;  Gain = 0.07561863355783785',\
+ 'Predecessor': 35,\
+ 'Split': [23, 12]\}\
+\{'Instances': 2072, 'Label': 0, 'Level': 14\}\
+\{'Level': 14,\
+ 'Node': 'x1 >= 0.854212;  Gain = 0.15549769857232165',\
+ 'Predecessor': 80,\
+ 'Split': [5, 75]\}\
+\{'Instances': 3, 'Label': 1, 'Level': 14\}\
+\{'Level': 14,\
+ 'Node': 'x1 >= 0.796035;  Gain = 1.002356655479618',\
+ 'Predecessor': 10,\
+ 'Split': [6, 4]\}\
+\{'Instances': 11, 'Label': 1, 'Level': 14\}\
+\{'Instances': 362, 'Label': 0, 'Level': 14\}\
+\{'Level': 14,\
+ 'Node': 'x1 >= 0.702627;  Gain = 0.7293236964444729',\
+ 'Predecessor': 5,\
+ 'Split': [1, 4]\}\
+\{'Instances': 14, 'Label': 0, 'Level': 14\}\
+\{'Instances': 5, 'Label': 1, 'Level': 14\}\
+\{'Instances': 7, 'Label': 0, 'Level': 14\}\
+\{'Level': 14,\
+ 'Node': 'x2 >= -0.201815;  Gain = 1.0',\
+ 'Predecessor': 4,\
+ 'Split': [2, 2]\}\
+\{'Level': 14,\
+ 'Node': 'x1 >= 0.332107;  Gain = 0.3895853788549531',\
+ 'Predecessor': 20,\
+ 'Split': [1, 19]\}\
+\{'Level': 14,\
+ 'Node': 'x1 >= 0.217031;  Gain = 0.20782922393617473',\
+ 'Predecessor': 86,\
+ 'Split': [12, 74]\}\
+****************************** \
+\
+Level  15 \
+\
+\{'Instances': 3, 'Label': 1, 'Level': 15\}\
+\{'Instances': 1, 'Label': 0, 'Level': 15\}\
+\{'Instances': 51, 'Label': 0, 'Level': 15\}\
+\{'Level': 15,\
+ 'Node': 'x2 >= 1.155263;  Gain = 1.0',\
+ 'Predecessor': 4,\
+ 'Split': [2, 2]\}\
+\{'Instances': 23, 'Label': 0, 'Level': 15\}\
+\{'Level': 15,\
+ 'Node': 'x2 >= 1.038738;  Gain = 0.5118495574458208',\
+ 'Predecessor': 12,\
+ 'Split': [1, 11]\}\
+\{'Level': 15,\
+ 'Node': 'x1 >= 0.93369;  Gain = 0.7293236964444729',\
+ 'Predecessor': 5,\
+ 'Split': [1, 4]\}\
+\{'Instances': 75, 'Label': 0, 'Level': 15\}\
+\{'Instances': 6, 'Label': 1, 'Level': 15\}\
+\{'Instances': 4, 'Label': 0, 'Level': 15\}\
+\{'Instances': 1, 'Label': 1, 'Level': 15\}\
+\{'Instances': 4, 'Label': 0, 'Level': 15\}\
+\{'Instances': 2, 'Label': 0, 'Level': 15\}\
+\{'Instances': 2, 'Label': 1, 'Level': 15\}\
+\{'Instances': 1, 'Label': 1, 'Level': 15\}\
+\{'Instances': 19, 'Label': 0, 'Level': 15\}\
+\{'Instances': 12, 'Label': 1, 'Level': 15\}\
+\{'Level': 15,\
+ 'Node': 'x2 >= -0.827372;  Gain = 0.33320489182946117',\
+ 'Predecessor': 74,\
+ 'Split': [13, 61]\}\
+****************************** \
+\
+Level  16 \
+\
+\{'Instances': 2, 'Label': 1, 'Level': 16\}\
+\{'Instances': 2, 'Label': 0, 'Level': 16\}\
+\{'Instances': 1, 'Label': 1, 'Level': 16\}\
+\{'Instances': 11, 'Label': 0, 'Level': 16\}\
+\{'Instances': 1, 'Label': 1, 'Level': 16\}\
+\{'Instances': 4, 'Label': 0, 'Level': 16\}\
+\{'Instances': 13, 'Label': 0, 'Level': 16\}\
+\{'Level': 16,\
+ 'Node': 'x1 >= 0.158802;  Gain = 0.27227481898814604',\
+ 'Predecessor': 61,\
+ 'Split': [12, 49]\}\
+****************************** \
+\
+Level  17 \
+\
+\{'Instances': 12, 'Label': 1, 'Level': 17\}\
+\{'Level': 17,\
+ 'Node': 'x2 >= -0.926187;  Gain = 0.3486867218061505',\
+ 'Predecessor': 49,\
+ 'Split': [40, 9]\}\
+****************************** \
+\
+Level  18 \
+\
+\{'Level': 18,\
+ 'Node': 'x1 >= -0.145968;  Gain = 0.37705667371571316',\
+ 'Predecessor': 40,\
+ 'Split': [37, 3]\}\
+\{'Instances': 9, 'Label': 1, 'Level': 18\}\
+****************************** \
+\
+Level  19 \
+\
+\{'Level': 19,\
+ 'Node': 'x2 >= -0.880797;  Gain = 0.2763584109102928',\
+ 'Predecessor': 37,\
+ 'Split': [21, 16]\}\
+\{'Instances': 3, 'Label': 1, 'Level': 19\}\
+****************************** \
+\
+Level  20 \
+\
+\{'Instances': 21, 'Label': 0, 'Level': 20\}\
+\{'Level': 20,\
+ 'Node': 'x1 >= -0.047785;  Gain = 0.6265452806451183',\
+ 'Predecessor': 16,\
+ 'Split': [12, 4]\}\
+****************************** \
+\
+Level  21 \
+\
+\{'Level': 21,\
+ 'Node': 'x1 >= 0.128571;  Gain = 0.5118495574458208',\
+ 'Predecessor': 12,\
+ 'Split': [1, 11]\}\
+\{'Instances': 4, 'Label': 1, 'Level': 21\}\
+****************************** \
+\
+Level  22 \
+\
+\{'Instances': 1, 'Label': 1, 'Level': 22\}\
+\{'Instances': 11, 'Label': 0, 'Level': 22\}\
+Total Nodes:  108\
+}
